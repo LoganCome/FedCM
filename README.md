@@ -1,6 +1,6 @@
 # FedCM
-FedCM: A Real-time Contribution Measurement Method for Participants in Federated Learning
-
+This repository contains the code for the paper titled "FedCM: A Real-time Contribution Measurement Method for Participants in Federated Learning".
+ 
 ## Citation
 
 If you find it useful in your research, please consider citing our paper as follows:
